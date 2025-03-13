@@ -4,7 +4,7 @@ Este diretório contém materiais e projetos relacionados à minha pós-graduaç
 
 ## Configuração do Ambiente
 
-### 1. Criar um Ambiente Virtual
+### 1. Criar um Ambiente Virtual 🛠️
 
 Para criar um ambiente virtual, execute o seguinte comando:
 
@@ -12,7 +12,7 @@ Para criar um ambiente virtual, execute o seguinte comando:
 python -m venv env
 ```
 
-### 2. Ativar o Ambiente Virtual
+### 2. Ativar o Ambiente Virtual ⚙️
 
 Para ativar o ambiente virtual, use o comando apropriado para o seu sistema operacional:
 
@@ -28,7 +28,7 @@ Para ativar o ambiente virtual, use o comando apropriado para o seu sistema oper
     source env/bin/activate
     ```
 
-### 3. Instalar Dependências
+### 3. Instalar Dependências 📦
 
 Com o ambiente virtual ativado, instale as dependências necessárias:
 
@@ -36,7 +36,7 @@ Com o ambiente virtual ativado, instale as dependências necessárias:
 pip install -r requirements.txt
 ```
 
-### 4. Iniciar o JupyterLab
+### 4. Iniciar o JupyterLab 🚀
 
 Para iniciar o JupyterLab, execute o seguinte comando:
 
@@ -45,3 +45,8 @@ jupyter lab
 ```
 
 Isso abrirá o JupyterLab no seu navegador padrão, onde você poderá acessar e trabalhar nos seus notebooks.
+
+---
+
+*README criado por João Victor Pantoja*  
+Graduado em Sistemas de Informação e pós-graduando em Inteligência Artificial.
