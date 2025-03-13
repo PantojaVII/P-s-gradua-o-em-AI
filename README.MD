@@ -1,8 +1,8 @@
-# Pós Graduação em Inteligência Artificial
+# Pós Graduação em Inteligência Artificial 🎓
 
 Este diretório contém materiais e projetos relacionados à minha pós-graduação em Inteligência Artificial.
 
-## Configuração do Ambiente
+## Configuração do Ambiente 🛠️
 
 ### 1. Criar um Ambiente Virtual 🛠️
 
